@@ -1,0 +1,52 @@
+[
+  {
+    "path": "skills/douyin-cover-maker/SKILL.md",
+    "sha256": "698b52bf278b1caa98d879a48ea33a77bd3f12c8abe6a1e258c18d7dbf1a0ba6",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/agents/openai.yaml",
+    "sha256": "9f7ad1eac41b569db569070c186c4d6f6d56996a85dae9dea485549a1ea1902a",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/account-positioning.md",
+    "sha256": "e241325c32c4c341e504748fe5e33b4885323d460e846229c8abd348a997750b",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/cover-production-standards.md",
+    "sha256": "996ab6e747a8da6a1b7efc7dc6542a3cf85612e0c7c5f7db0d59af41a5dd6eec",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/cover-prompt-patterns.md",
+    "sha256": "612eb3f3e3d4d735431cc9d629e2110bf618634d8b5b6c0cc33a9ecc2a2c4f82",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/cover-quality-checklist.md",
+    "sha256": "a1401cdad0eaff7eed395c359d0ce9b82da2b9d77038e17b6f76e92ff76c0855",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/cover-visual-guidelines.md",
+    "sha256": "fa9533ee252c7cba6b1dd7cfaabd2719a159e05e0e4f9b644716552a09a406c9",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/post-publish-24h-feedback-standards.md",
+    "sha256": "618bcd44bb65426ad482be7e26fde020730ad067064819cf3be2ae61f5f37b39",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/production-sop.md",
+    "sha256": "393455cdf4f90c6bce5b738c98242f07a34d1a44f75c620487d4c2b1424d540b",
+    "unchanged_from_source": true
+  },
+  {
+    "path": "skills/douyin-cover-maker/references/two-second-retention-script-standards.md",
+    "sha256": "19f8441fc67729450f6730e24a79e4f006e04ddbd48d6f027eab3ca5b635aa70",
+    "unchanged_from_source": true
+  }
+]
