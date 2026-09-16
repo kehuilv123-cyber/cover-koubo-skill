@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播内容生产与复盘闭环"
+  short_description: "把短视频灵感推进为选题、口播、拍摄、封面和发布后数据复盘。适用于完整口播制作与跨环节迭代。"
+  default_prompt: "使用 $cover-koubo-skill，根据我的视频材料完成对应环节，并给出可执行的修改。"

@@ -1,52 +1,94 @@
 [
   {
-    "path": "skills/douyin-cover-maker/SKILL.md",
-    "sha256": "698b52bf278b1caa98d879a48ea33a77bd3f12c8abe6a1e258c18d7dbf1a0ba6",
-    "unchanged_from_source": true
+    "path": "skills/completion-rate-skill/agents/openai.yaml",
+    "sha256": "37ded2468978f15b672fe09860f15a682059e84e6372913253b7d63dcca94354"
   },
   {
-    "path": "skills/douyin-cover-maker/agents/openai.yaml",
-    "sha256": "9f7ad1eac41b569db569070c186c4d6f6d56996a85dae9dea485549a1ea1902a",
-    "unchanged_from_source": true
+    "path": "skills/completion-rate-skill/references/completion-rate-standards.md",
+    "sha256": "e6f48dde30984c1d75beef9a8e1c71f3af6c8d7f93cc1f9586e03a1f208e947c"
   },
   {
-    "path": "skills/douyin-cover-maker/references/account-positioning.md",
-    "sha256": "e241325c32c4c341e504748fe5e33b4885323d460e846229c8abd348a997750b",
-    "unchanged_from_source": true
+    "path": "skills/completion-rate-skill/SKILL.md",
+    "sha256": "7331601791c02e5be0464d503bf6cb2d259583568a6cb7717a23e8783ffc8597"
   },
   {
-    "path": "skills/douyin-cover-maker/references/cover-production-standards.md",
-    "sha256": "996ab6e747a8da6a1b7efc7dc6542a3cf85612e0c7c5f7db0d59af41a5dd6eec",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/agents/openai.yaml",
+    "sha256": "a1695ed7b162db7e8f488288b7c2043edb81242e0aa162694824ca4057bb0df7"
   },
   {
-    "path": "skills/douyin-cover-maker/references/cover-prompt-patterns.md",
-    "sha256": "612eb3f3e3d4d735431cc9d629e2110bf618634d8b5b6c0cc33a9ecc2a2c4f82",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/account-positioning.md",
+    "sha256": "e241325c32c4c341e504748fe5e33b4885323d460e846229c8abd348a997750b"
   },
   {
-    "path": "skills/douyin-cover-maker/references/cover-quality-checklist.md",
-    "sha256": "a1401cdad0eaff7eed395c359d0ce9b82da2b9d77038e17b6f76e92ff76c0855",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/completion-rate-standards.md",
+    "sha256": "e6f48dde30984c1d75beef9a8e1c71f3af6c8d7f93cc1f9586e03a1f208e947c"
   },
   {
-    "path": "skills/douyin-cover-maker/references/cover-visual-guidelines.md",
-    "sha256": "fa9533ee252c7cba6b1dd7cfaabd2719a159e05e0e4f9b644716552a09a406c9",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/cover-production-standards.md",
+    "sha256": "996ab6e747a8da6a1b7efc7dc6542a3cf85612e0c7c5f7db0d59af41a5dd6eec"
   },
   {
-    "path": "skills/douyin-cover-maker/references/post-publish-24h-feedback-standards.md",
-    "sha256": "618bcd44bb65426ad482be7e26fde020730ad067064819cf3be2ae61f5f37b39",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/cover-prompt-patterns.md",
+    "sha256": "612eb3f3e3d4d735431cc9d629e2110bf618634d8b5b6c0cc33a9ecc2a2c4f82"
   },
   {
-    "path": "skills/douyin-cover-maker/references/production-sop.md",
-    "sha256": "393455cdf4f90c6bce5b738c98242f07a34d1a44f75c620487d4c2b1424d540b",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/cover-quality-checklist.md",
+    "sha256": "a1401cdad0eaff7eed395c359d0ce9b82da2b9d77038e17b6f76e92ff76c0855"
   },
   {
-    "path": "skills/douyin-cover-maker/references/two-second-retention-script-standards.md",
-    "sha256": "19f8441fc67729450f6730e24a79e4f006e04ddbd48d6f027eab3ca5b635aa70",
-    "unchanged_from_source": true
+    "path": "skills/cover-koubo-skill/references/cover-visual-guidelines.md",
+    "sha256": "fa9533ee252c7cba6b1dd7cfaabd2719a159e05e0e4f9b644716552a09a406c9"
+  },
+  {
+    "path": "skills/cover-koubo-skill/references/post-publish-24h-feedback-standards.md",
+    "sha256": "618bcd44bb65426ad482be7e26fde020730ad067064819cf3be2ae61f5f37b39"
+  },
+  {
+    "path": "skills/cover-koubo-skill/references/production-sop.md",
+    "sha256": "393455cdf4f90c6bce5b738c98242f07a34d1a44f75c620487d4c2b1424d540b"
+  },
+  {
+    "path": "skills/cover-koubo-skill/references/two-second-retention-script-standards.md",
+    "sha256": "19f8441fc67729450f6730e24a79e4f006e04ddbd48d6f027eab3ca5b635aa70"
+  },
+  {
+    "path": "skills/cover-koubo-skill/SKILL.md",
+    "sha256": "776cddecd21cf59561a69dd25b1eb6011bf38fb56ffd4e3056e08780547f2596"
+  },
+  {
+    "path": "skills/cover-skill/agents/openai.yaml",
+    "sha256": "bf40d6a4d6ea23bb9c6ac151dd2b37e4f610c3609a3cb891fe6b91c0264b2aaf"
+  },
+  {
+    "path": "skills/cover-skill/references/cover-production-standards.md",
+    "sha256": "996ab6e747a8da6a1b7efc7dc6542a3cf85612e0c7c5f7db0d59af41a5dd6eec"
+  },
+  {
+    "path": "skills/cover-skill/references/cover-prompt-patterns.md",
+    "sha256": "612eb3f3e3d4d735431cc9d629e2110bf618634d8b5b6c0cc33a9ecc2a2c4f82"
+  },
+  {
+    "path": "skills/cover-skill/references/cover-quality-checklist.md",
+    "sha256": "a1401cdad0eaff7eed395c359d0ce9b82da2b9d77038e17b6f76e92ff76c0855"
+  },
+  {
+    "path": "skills/cover-skill/references/cover-visual-guidelines.md",
+    "sha256": "fa9533ee252c7cba6b1dd7cfaabd2719a159e05e0e4f9b644716552a09a406c9"
+  },
+  {
+    "path": "skills/cover-skill/SKILL.md",
+    "sha256": "04b9342bef09b8264a532f1664b9e038384e2862ce55dd9d680d56fed2a722ce"
+  },
+  {
+    "path": "skills/two-second-retention-skill/agents/openai.yaml",
+    "sha256": "d753ee11fc3def3c65d3772bf917cbfa1f8fb35b6b917a2c90d87133f1030e13"
+  },
+  {
+    "path": "skills/two-second-retention-skill/references/two-second-retention-script-standards.md",
+    "sha256": "19f8441fc67729450f6730e24a79e4f006e04ddbd48d6f027eab3ca5b635aa70"
+  },
+  {
+    "path": "skills/two-second-retention-skill/SKILL.md",
+    "sha256": "b275a59874c951c9c1b26cd9b604dd6056f6f194c77a5de6b241a907ab88d557"
   }
 ]

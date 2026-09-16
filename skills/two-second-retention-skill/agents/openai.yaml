@@ -1,0 +1,4 @@
+interface:
+  display_name: "前两秒留存优化"
+  short_description: "针对短视频两秒跳出率设计第一帧、第一句话、字幕和声音，提供开头备选及同口径复盘。"
+  default_prompt: "使用 $two-second-retention-skill，根据我的视频材料完成对应环节，并给出可执行的修改。"

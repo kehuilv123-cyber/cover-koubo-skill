@@ -1,0 +1,4 @@
+interface:
+  display_name: "完播率与正文节奏优化"
+  short_description: "针对短视频完播率和平均播放时长检查正文结构、信息密度与节奏，交付可拍摄改稿和复查方案。"
+  default_prompt: "使用 $completion-rate-skill，根据我的视频材料完成对应环节，并给出可执行的修改。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "短视频封面制作"
+  short_description: "根据视频主题、口播和实拍素材制作或修改短视频封面，检查标题、构图和手机端可读性。"
+  default_prompt: "使用 $cover-skill，根据我的视频材料完成对应环节，并给出可执行的修改。"

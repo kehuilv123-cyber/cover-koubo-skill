@@ -1,4 +1,0 @@
-interface:
-  display_name: "抖音封面一键生成"
-  short_description: "用实拍照片直接生成抖音封面，并完成脚本、拍摄与数据复盘。"
-  default_prompt: "Use $douyin-cover-maker 根据我的视频内容和本期实拍照片，直接一键生成可发布的抖音封面。"
